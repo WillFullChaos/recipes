@@ -1,4 +1,25 @@
+*{
+    text-align: center;
+    background: black;
+    color: white
+}
+
+
 p{
+    color: palevioletred;
+    font-size: 20px;
+}
+
+h1{
     color: red;
-    background-color: yellow;
+}
+
+div{
+    background-color: aqua;
+}
+
+.list{
+    color: blue;
+    background-color: orange;
+    text-emphasis-color: red;
 }
